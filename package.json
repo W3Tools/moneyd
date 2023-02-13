@@ -17,6 +17,7 @@
     "chalk": "^2.3.0",
     "ilp-connector": "^23.0.0",
     "ilp-plugin-mini-accounts": "^3.5.1",
+    "ilp-plugin-xrp-paychan-shared": "github:W3Tools/ilp-plugin-xrp-paychan-shared",
     "ilp-store-memory": "^1.0.0",
     "inquirer": "^6.5.0",
     "moment": "^2.22.1",
